@@ -45,4 +45,5 @@ function crearLista(){
     }      
 
     //document.getElementsByTagName('body')[0].appendChild(div_element);
+    document.firstElementChild.lastElementChild.appendChild(div_element);
 }
